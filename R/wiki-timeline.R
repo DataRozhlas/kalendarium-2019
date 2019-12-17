@@ -30,7 +30,7 @@ for (i in 1:50) {
     }
   }
   
-  png(paste0("../img/wiki/week", formatC(i, width = 2, format = "d", flag = "0"), ".png"), width=600, height=315)
+  png(paste0("../img/wiki/week", i, ".png"), width=600, height=315)
   par(mar=c(2,0,0,0.8))
   
   nejden <- tyden %>% filter(visits==max(visits))

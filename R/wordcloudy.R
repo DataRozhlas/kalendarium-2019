@@ -18,7 +18,7 @@ for (i in 1:50) {
   vyber <- vyber %>% filter(vyber[,1] != "rozhlas")
   vyber <- vyber %>% filter(vyber[,1] != "irozhlas volby")
   vyber <- vyber %>% filter(vyber[,1] != "seznam")
-  png(paste0("../img/wordcloud/w", formatC(i, width = 2, format = "d", flag = "0"), ".png"), width=600, height=315)
+  png(paste0("../img/wordcloud/week", i, ".png"), width=600, height=315)
   wordcloud(words=pull(vyber,1),
             freq=as.numeric(pull(vyber,2)),
             max.words=50,

@@ -1,0 +1,59 @@
+.weekdiv {
+	display: flex;
+	width: 100%;
+	max-width: 100%;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding-bottom: 20px;
+}
+
+@media only screen and (min-width: 600px) {		
+	.wikidiv, .googlediv, .irdiv {
+		width: 33%;
+		padding: 0 10px;
+	}
+
+	.googleheader, .wikiheader, .irheader {
+		margin-top: 0;
+		height: 110px;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+}
+
+.weektitle, .googleheader, .wikiheader, .irheader {
+	text-align: center;
+}
+
+.separator {
+	text-align: center;
+	margin-top: 25px;
+}
+
+#sepweek1 {
+	display: none;
+}
+
+.googleheader, .wikiheader, .irheader {
+	margin-top: 25px;
+}
+
+.googlelead, .wikilead, .irlead {
+	text-decoration: none;
+	margin-bottom: -2px;
+	font-variant: small-caps;
+	font-size: 0.9rem;
+}
+
+.googletitle, .wikititle, .irtitle {
+	margin-top: 0;
+}
+
+.irimg, .googleimg, .wikiimg {
+	width: 100%;
+}
+
+.weektext {
+	font-size: 95%;
+}
