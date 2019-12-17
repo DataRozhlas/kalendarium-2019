@@ -1,5 +1,6 @@
 export function getDateOfWeek(w) {
-    const d = (1 + (w - 1) * 7); // 1st of January + 7 days for each week
+    let d = (1 + (w - 1) * 7)-1; // 1st of January + 7 days for each week
+    if (w==1) {d = 1;}
     const monDate = new Date(2019, 0, d);
     const sunDate = new Date(2019, 0, d + 6);
     return [monDate.getMonth() + 1, monDate.getDate(), sunDate.getMonth() + 1, sunDate.getDate()];
