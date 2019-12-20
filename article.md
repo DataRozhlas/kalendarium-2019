@@ -1,7 +1,7 @@
-title: "Kalendárium 2019: Něco i něco jiného. Co čtenáři hledali na serveru iROZHLAS.cz? A co na Wikipedii?"
-perex: "perex"
-coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/prag_-_rathausuhr_mo_181226-230054_zlo.jpg?itok=2tuP8Fme
-coverimg_note: "Foto <a href='https://commons.wikimedia.org/wiki/File:Prag_-_Rathausuhr_Monatsarbeiten.jpg'>Maros M r a z</a> (CC-BY-SA 3.0)"
+title: "Kalendárium 2019: Černobyl i Fekišovce. Co čtenáři hledali na serveru iROZHLAS.cz? A co na Wikipedii?"
+perex: "Klíčové události letošního roku, přehledně na jednom místě. Datoví novináři iROZHLAS.cz přináší výběr toho, co by vám nemělo uniknout. Týden po týdnu vybrali témata, které rezonovala ve vyhledávání Google, na české Wikipedii a které články zaujaly čtenáře našeho zpravodajského serveru nejvíce."
+coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/images/02582303.jpeg?itok=ODhVT8A_
+coverimg_note: "Foto Aleš Spurný"
 styles: []
 libraries: [] #jquery, d3, highcharts, datatables
 options: [wide] #wide, noheader (, nopic)
