@@ -1,6 +1,6 @@
 const data = {
   "week1": {
-    "text": "Na světelnou podívanou za téměř dva miliony korun se mohli zpětně podívat čtenáři iROZHLAS.cz. Během prvního lednového víkendu se pak přesunuli k obrazovkám České televize, která vysílala film Filipa Renče Líba Baarová.",
+    "text": "Na světelnou podívanou za téměř dva miliony korun se mohli zpětně podívat čtenáři iROZHLAS.cz. Během prvního lednového víkendu se pak přesunuli k obrazovkám České televize, která vysílala film Filipa Renče Lída Baarová.",
     "wiki": {
       "title": "Lída Baarová"
     },
@@ -254,7 +254,7 @@ const data = {
   "week19": {
     "text": "Slovensko hostilo 83. ročník největšího hokejového klání. Čtenáře iROZHLAS.cz zaujal rozhovor s finskou novinářkou Jessikkou Aro.",
     "wiki": {
-      "title": "Mistrovství světa v ledním hokeji"
+      "title": "Mistrovství světa v ledním hokeji 2019"
     },
     "ir": {
       "url": "https://www.irozhlas.cz/zpravy-domov/jessikka-aro-fake-news-dezinformace-rozhvor-trollove-finsko_1905050600_ogo",
@@ -492,7 +492,7 @@ const data = {
   "week36": {
     "text": "Naše čtenáře zaujala sonda do světa šiřitelů dezinformací. V Praze poprvé koncertovala Ariana Grande.",
     "wiki": {
-      "title": "Kateřina Marie Fialová"
+      "title": "Nabarvené ptáče"
     },
     "ir": {
       "url": "https://www.irozhlas.cz/zpravy-domov/fake-news-dezinformace-trollove-zarko-jovanovic-informacni-valka_1909020600_ogo",
@@ -562,7 +562,7 @@ const data = {
   "week41": {
     "text": "Server iROZHLAS.cz nahlédl do začerněných pasáží verdiktu Jaroslava Šarocha, jímž stopl stíhání v nejsledovanější kauze posledních měsíců.",
     "wiki": {
-      "title": "Karel Gott"
+      "title": "Ivana Gottová"
     },
     "ir": {
       "url": "https://www.irozhlas.cz/zpravy-domov/capi-hnizdo-andrej-babis-vypovedi-svedci-bankeri-jaroslav-saroch-stihani_1910070600_kno",
@@ -697,6 +697,34 @@ const data = {
     },
     "google": {
       "title": "strelba v ostrave"
+    }
+  },
+  "week51": {
+    "text": "Policie na dvě hodiny uzavřela část Lidické ulice v centru Brna, protože se tam střílelo. Prezident Zeman se zajímal o práci Ústavního soudu. V kinech se začal promítat další díl Star Wars.",
+    "wiki": {
+      "title": "Star Wars"
+    },
+    "ir": {
+      "url": "https://www.irozhlas.cz/zpravy-domov/prezident-milos-zeman-stret-zajmu-pavel-rychetsky-andrej-babis-ustavni-soud_1912160702_kno",
+      "title": "Prezident urgoval u Rychetského podnět kvůli lex Babiš. ‚Ptal se, kdy rozhodneme,‘ říká šéf soudu",
+      "img": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/uploader/k_cro_30_md_56_191112-102029_mda.jpg?itok=UFh5XUT0"
+    },
+    "google": {
+      "title": "brno lidická"
+    }
+  },
+  "week52": {
+    "text": "Začaly Vánoce, Češi zasedli ke stromkům a mnozí i k televizorům. Zemřela herečka Taťana Fischerová.",
+    "wiki": {
+      "title": "Taťana Fischerová"
+    },
+    "ir": {
+      "url": "https://www.irozhlas.cz/zpravy-svet/cernobyl-hbo-serial-ljudmila-ignatenko-havarie-vdova-hasic_1912231331_eku",
+      "title": "Producenti nikdy neměli mé svolení, říká vdova po hasiči z Černobylu. Kvůli seriálu čelila kritice",
+      "img": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_facebook/public/uploader/navrh_bez_nazvu_1_190529-225628_kro.png?itok=ouMfOnwD"
+    },
+    "google": {
+      "title": "princezna a půl království"
     }
   }
 };

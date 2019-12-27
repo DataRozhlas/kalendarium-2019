@@ -8,7 +8,7 @@ library(readr)
 
 soubory <- list.files("../data/ga-queries/")
 
-for (i in 1:50) {
+for (i in 1:52) {
   vyber <- read_csv(readLines(paste0("../data/ga-queries/", soubory[i]))[8:107], col_names = F)
   vyber <- vyber %>% filter(vyber[,1] != "irozhlas")
   vyber <- vyber %>% filter(vyber[,1] != "irozhlas cz")

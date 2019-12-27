@@ -9,7 +9,7 @@ Sys.setlocale(category = "LC_ALL", locale = "cs_CZ.UTF-8")
 Sys.getlocale(category = "LC_ALL")
 
 
-for (i in 1:50) {
+for (i in 1:52) {
   tyden <- as.data.frame(wiki[[i]])
   nazev <- as.character(tyden[1,1])
   tyden <- tyden[,-1]

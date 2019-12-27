@@ -19,7 +19,7 @@ ir <- fromJSON("../data/nejctenejsi.json")
 
 soubory <- list.files("../data/ga-queries/")
 google <- character()
-for (i in 1:50) {
+for (i in 1:52) {
   vyber <- read_csv(readLines(paste0("../data/ga-queries/", soubory[i]))[8:107], col_names = F)
   vyber <- vyber %>% filter(vyber[,1] != "irozhlas")
   vyber <- vyber %>% filter(vyber[,1] != "irozhlas cz")
@@ -36,7 +36,7 @@ for (i in 1:50) {
 
 export <- list()
 
-for (i in 1:50) {
+for (i in 1:52) {
 r <- list(week=
   list(
   text=text[i],
@@ -56,7 +56,7 @@ r <- list(week=
 export <- c(export, r)
 }
 
-names(export) <- c(paste0("week", 1:50))
+names(export) <- c(paste0("week", 1:52))
 
 pbcopy(toJSON(export, auto_unbox=T, pretty=T))
 
