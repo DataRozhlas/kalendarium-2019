@@ -1,5 +1,4 @@
 ﻿import "./byeie"; // loučíme se s IE
-import "./objentries"; // polyfill pro Object.entries
 import { h, render } from "preact";
 /** @jsx h */
 import data from "./data";
@@ -28,7 +27,7 @@ const WikiDiv = ({ week }) => (
     <div className="wikiheader">
       <h5 className="wikilead">Nejčtenější na Wikipedii</h5>
       <Title
-        link={`http://cs.wikipedia.org/wiki/${week[1].wiki.title.replace(" ", "_")}`}
+        link={`http://cs.wikipedia.org/wiki/${week[1].wiki.title.replace(/ /g, "_")}`}
         classname="wikititle"
         text={week[1].wiki.title}
       />
