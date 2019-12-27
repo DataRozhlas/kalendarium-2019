@@ -1,4 +1,16 @@
-text <- rep("To byl ale zajímavý týden! Čím byl tento týden zajímavý? Tohle lidi zajímalo.", 50)
+library(stringr)
+library(tfse)
+library(jsonlite)
+library(readr)
+library(dplyr)
+
+# text <- rep("To byl ale zajímavý týden! Čím byl tento týden zajímavý? Tohle lidi zajímalo.", 50)
+
+
+text <- readLines("../data/text.txt")
+
+text <- str_squish(text)
+
 
 wiki <- fromJSON("../data/data.json")
 wiki <- sapply(wiki, function(x) {return(x[[1]])})
@@ -46,6 +58,5 @@ export <- c(export, r)
 
 names(export) <- c(paste0("week", 1:50))
 
-library(tfse)
 pbcopy(toJSON(export, auto_unbox=T, pretty=T))
 
