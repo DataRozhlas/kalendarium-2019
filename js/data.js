@@ -42,7 +42,7 @@ const data = {
     }
   },
   "week4": {
-    "text": "V sobotu 26.ledna Česko zasáhla smutná zpráva o úmrtí herce Luďka Munzara. Zemřel ve věku 85 let. Tenistka Petra Kvitová bodovala v Austrálii.",
+    "text": "V sobotu 26. ledna Česko zasáhla smutná zpráva o úmrtí herce Luďka Munzara. Zemřel ve věku 85 let. Tenistka Petra Kvitová bodovala v Austrálii.",
     "wiki": {
       "title": "Luděk Munzar"
     },
@@ -70,7 +70,7 @@ const data = {
     }
   },
   "week6": {
-    "text": "Na následky zápalu plic zemřel herec Petr Oliva. Diváky z televizních obrazovek provázel několik generací, zahrál si v seriálech 30 případu Majora Zemana, Sanitka, Rodáci ale i v Ordinaci v růžové zahradě.",
+    "text": "Na následky zápalu plic zemřel herec Petr Oliva. Diváky z televizních obrazovek provázel několik generací, zahrál si v seriálech 30 případů Majora Zemana, Sanitka, Rodáci, ale i v Ordinaci v růžové zahradě.",
     "wiki": {
       "title": "Petr Oliva"
     },
@@ -98,7 +98,7 @@ const data = {
     }
   },
   "week8": {
-    "text": "Pro systémovou podjatost zastupitelstva Středočeského kraje navrhoval Vít Rakušan (STAN) aby odvolání v řízení o údajném středu zájmů premiéra Babiše (ANO) řešil jiný úřad. Proti se postavila středočeská koalice v čele s hnutím ANO.",
+    "text": "Pro systémovou podjatost zastupitelstva Středočeského kraje navrhoval Vít Rakušan (STAN), aby odvolání v řízení o údajném střetu zájmů premiéra Babiše (ANO) řešil jiný úřad. Proti se postavila středočeská koalice v čele s hnutím ANO.",
     "wiki": {
       "title": "Karl Lagerfeld"
     },
@@ -112,7 +112,7 @@ const data = {
     }
   },
   "week9": {
-    "text": "Loni na podzim vyvolala fotografie Annamárie Horváthové na Slovensku nečekanou vlnu solidarity, letos v únoru už dívenka neběhala v balerínách ale ve sportovních botách a dále sklízela úspěchy.",
+    "text": "Loni na podzim vyvolala fotografie Annamárie Horváthové na Slovensku nečekanou vlnu solidarity, letos v únoru už dívenka neběhala v balerínách, ale ve sportovních botách a dále sklízela úspěchy.",
     "wiki": {
       "title": "Jiří Pomeje"
     },
@@ -126,7 +126,7 @@ const data = {
     }
   },
   "week10": {
-    "text": "V Česku neprojde technickou kontrolou osm procent aut, v Německu je to 21 procent. Datoví novináři iROZHLAS.cz analyzovali výsledky všech stanic technických kontrol v Česku, na mapě pak ukázali, jak jsou na tom. Na pátek 8. března připadl mezinárodní svátek oslavující ženy, každoročně je připomínám jako den solidarity za rovnoprávnost, spravedlnost, mír a rozvoj.",
+    "text": "V Česku neprojde technickou kontrolou osm procent aut, v Německu je to 21 procent. Datoví novináři iROZHLAS.cz analyzovali výsledky všech stanic technických kontrol v Česku, na mapě pak ukázali, jak jsou na tom. Na pátek 8. března připadl mezinárodní svátek oslavující ženy.",
     "wiki": {
       "title": "Mezinárodní den žen"
     },
@@ -196,7 +196,7 @@ const data = {
     }
   },
   "week15": {
-    "text": "Překvapivě rychlé rekonstrukce jedné z ulic se dočkali obyvatelé v okrajové částí Benešova. Nešlo přitom o významnou dopravní tepnu, v ulici ale bydlela hejtmanka Jermanová.",
+    "text": "Překvapivě rychlé rekonstrukce jedné z ulic se dočkali obyvatelé v okrajové částí Benešova. Nešlo přitom o významnou dopravní tepnu, v ulici ale bydlela hejtmanka Pokorná Jermanová (ANO).",
     "wiki": {
       "title": "Katedrála Notre-Dame (Paříž)"
     },
@@ -210,7 +210,7 @@ const data = {
     }
   },
   "week16": {
-    "text": "V podvečer 15.dubna vypukl požár v prostoru střechy katedrály Notre-Dame. Zcela uhašen byl až po dvanácti hodinách, kdy francouzský prezident Emmanuel Macron vyhlásil národní sbírku na její obnovu. Při šesti explozích v jihovýchodní Asii na ostrově Srí Lanka přišlo o život 253 lidí, dalších 500 bylo zraněno. K útoku se přihlásil Islámský stát.",
+    "text": "V podvečer 15. dubna vypukl požár v prostoru střechy katedrály Notre-Dame. Zcela uhašen byl až po dvanácti hodinách, kdy francouzský prezident Emmanuel Macron vyhlásil národní sbírku na její obnovu. Při šesti explozích v jihovýchodní Asii na ostrově Srí Lanka přišlo o život 253 lidí, dalších 500 bylo zraněno. K útoku se přihlásil Islámský stát.",
     "wiki": {
       "title": "Srí Lanka"
     },
@@ -238,7 +238,7 @@ const data = {
     }
   },
   "week18": {
-    "text": "Vypadají sice jako obyčejné mince, kterými se každý den platí, přesto se však často mohou v nepatrném – snadno přehlédnutelném – detailu lišit. Taková malá odchylka poté způsobí, že i na první pohled běžná mince může mít místo své pevně stanovené nominální hodnoty sběratelskou cenu až tisíckrát vyšší. Řeč je o desetikorunách za třicet tisíc. Kde se dají najít hledali čtenáři na serveru iROZHLAS.cz",
+    "text": "Vypadají sice jako obyčejné mince, kterými se každý den platí, přesto se však často mohou v nepatrném – snadno přehlédnutelném – detailu lišit. Taková malá odchylka poté způsobí, že i na první pohled běžná mince může mít místo své pevně stanovené nominální hodnoty sběratelskou cenu až tisíckrát vyšší. Řeč je o desetikorunách za třicet tisíc. Kde se dají najít, hledali čtenáři na serveru iROZHLAS.cz",
     "wiki": {
       "title": "Pálení čarodějnic"
     },
@@ -266,7 +266,7 @@ const data = {
     }
   },
   "week20": {
-    "text": "Dramatický seriál Černobyl z dílny americké HBO se stal téměř okamžitě celosvětovým fenoménem. Pětidílnou minisérii kladně hodnotili jak diváci, tak odborníci na jadernou bezpečnost, kteří vyzvdihovali jeho historickou přesnost.",
+    "text": "Černobyl z dílny americké HBO se stal téměř okamžitě celosvětovým fenoménem. Pětidílnou minisérii kladně hodnotili jak diváci, tak odborníci na jadernou bezpečnost, kteří vyzdvihovali jeho historickou přesnost.",
     "wiki": {
       "title": "Černobylská havárie"
     },
@@ -308,7 +308,7 @@ const data = {
     }
   },
   "week23": {
-    "text": "Kariérní premiéra na finále grandslamu čekala na teprve 19 letou rodačku ze Sokolova. Vondroušová sice nakonec na French Open nezvítězila, stala se ale nejmladší členkou elitní světové dvacítky.",
+    "text": "Kariérní premiéra na finále grandslamu čekala na teprve 19 letou rodačku ze Sokolova. Markéta Vondroušová sice nakonec na French Open nezvítězila, stala se ale nejmladší členkou elitní světové dvacítky.",
     "wiki": {
       "title": "Markéta Vondroušová"
     },
@@ -336,7 +336,7 @@ const data = {
     }
   },
   "week25": {
-    "text": "Kdo je nejhledanějším rodákem vašeho města či vesnice ukázala mapa z dílny datařů iROZHLAS.cz. Nebývalému zájmu se na Wikipedii těšil Jiří Burian známý pod svým uměleckým pseudonymem Kapitán Demo.",
+    "text": "Kdo je nejhledanějším rodákem vašeho města či vesnice, ukázala mapa z dílny datařů iROZHLAS.cz. Nebývalému zájmu se na Wikipedii těšil Jiří Burian známý pod svým uměleckým pseudonymem Kapitán Demo.",
     "wiki": {
       "title": "Jiří Burian (hudebník)"
     },
@@ -350,7 +350,7 @@ const data = {
     }
   },
   "week26": {
-    "text": "Rezonovala témata vyslovení nedůvěry vládě, nejvíce čtenářů na web ale přilákaly informace o počasí. Do výběru se prokousal také Chroust obecný.",
+    "text": "Rezonovala témata vyslovení nedůvěry vládě, nejvíce čtenářů na web ale přilákaly informace o počasí. Do výběru se prokousal také chroust obecný.",
     "wiki": {
       "title": "Chroust obecný"
     },
@@ -392,7 +392,7 @@ const data = {
     }
   },
   "week29": {
-    "text": "Dva miliony nadšenců záhad a sci-fi společně plánovalo proniknout do vojenského objektu v americké Nevadě. Alespoň to říkala Facebooková událost. V Oblasti 51 chtěli získat důkazy o údajném mimozemském životě. Nakonec jich dorazilo méně než sto.",
+    "text": "Dva miliony nadšenců záhad a sci-fi společně plánovaly proniknout do vojenského objektu v americké Nevadě. Alespoň to říkala facebooková událost. V Oblasti 51 chtěli získat důkazy o údajném mimozemském životě. Nakonec jich dorazilo méně než sto.",
     "wiki": {
       "title": "Oblast 51"
     },
@@ -448,7 +448,7 @@ const data = {
     }
   },
   "week33": {
-    "text": "Týden po premiéře nového snímku Quentina Tarrantina Tenkrát v Hollywoodu trendovala Sharon Tate, americké herečka, kterou ve filmu ztvárnila Margot Robbie.",
+    "text": "Týden po premiéře nového snímku Quentina Tarantina Tenkrát v Hollywoodu trendovala Sharon Tate, americké herečka, kterou ve filmu ztvárnila Margot Robbie.",
     "wiki": {
       "title": "Sharon Tate"
     },
@@ -462,7 +462,7 @@ const data = {
     }
   },
   "week34": {
-    "text": "Tisíce hudebních fanoušků všech generací zaplnilo Letňany, po roce tam zahrála americká kapela Metallica.",
+    "text": "Tisíce hudebních fanoušků všech generací zaplnily Letňany, po roce tam zahrála americká kapela Metallica.",
     "wiki": {
       "title": "Milada Horáková"
     },
@@ -476,7 +476,7 @@ const data = {
     }
   },
   "week35": {
-    "text": "Nebývalý zájem o Maršála Koněva vyvolaly kontroverze ohledně jeho sochy na Praze 6.",
+    "text": "Nebývalý zájem o maršála Koněva vyvolaly kontroverze ohledně jeho sochy na Praze 6.",
     "wiki": {
       "title": "Ivan Stěpanovič Koněv"
     },
@@ -504,7 +504,7 @@ const data = {
     }
   },
   "week37": {
-    "text": "Prezident Zeman zahájil návštěvu Srbska. „Nemám rád Kosovo,“ řekl srbskému protějšku Vučićovi. Zeman se ke Kosovu vyjádřil v minulosti několikrát, zpochybnil ho jako demokratický stát. Kosovo ale uznala na jaře 2008 vláda Mirka Topolánka.",
+    "text": "Prezident Zeman zahájil návštěvu Srbska. „Nemám rád Kosovo,“ řekl srbskému protějšku Vučićovi. Zeman se ke Kosovu vyjádřil v minulosti několikrát, zpochybnil ho jako demokratický stát. Kosovo ale uznala na jaře 2008 vláda Mirka Topolánka (ODS).",
     "wiki": {
       "title": "Kosovo"
     },
@@ -532,7 +532,7 @@ const data = {
     }
   },
   "week39": {
-    "text": "Sociologové v exkluzivním výzkumu pro Český rozhlas rozdělili českou společnost do šesti společenských tříd. Do které z nich patříte si můžete vyzkoušet díky interaktivnímu kvízu.",
+    "text": "Sociologové v exkluzivním výzkumu pro Český rozhlas rozdělili českou společnost do šesti společenských tříd. Do které z nich patříte, si můžete vyzkoušet díky interaktivnímu kvízu.",
     "wiki": {
       "title": "Greta Thunbergová"
     },
@@ -588,7 +588,7 @@ const data = {
     }
   },
   "week43": {
-    "text": "Události spojené s Pražským hradem - mimořádné zpřístupnění Jeleního příkopu a zdravotní stav prezidenta po rekondičním pobytu v Ústřední vojenské nemocnici čtenáře zaujaly nejvíce.",
+    "text": "Události spojené s Pražským hradem – mimořádné zpřístupnění Jeleního příkopu a zdravotní stav prezidenta po rekondičním pobytu v Ústřední vojenské nemocnici – čtenáře zaujaly nejvíce.",
     "wiki": {
       "title": "Halloween"
     },
@@ -644,7 +644,7 @@ const data = {
     }
   },
   "week47": {
-    "text": "S blížícími se Vánocemi lidé vyhledávali dobročinný projekt Českého rozhlasu Ježíškova vnoučata. Bodoval podcast Vinohradská 12 s komentátorem Jindřichem Šídlem. Zájem byl také o Venuši. Ne ale planetu, jak vyplývá z vyhledávání ale o sošku, která byla poprvé vystavena v Olomouci.",
+    "text": "S blížícími se Vánocemi lidé vyhledávali dobročinný projekt Českého rozhlasu Ježíškova vnoučata. Bodoval podcast Vinohradská 12 s komentátorem Jindřichem Šídlem. Zájem byl také o Venuši. Ne ale planetu, jak vyplývá z vyhledávání, nýbrž o nejstarší keramickou sošku na světě, která byla vystavena v Olomouci.",
     "wiki": {
       "title": "Venuše (planeta)"
     },
