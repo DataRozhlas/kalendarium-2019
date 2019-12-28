@@ -1,5 +1,5 @@
 title: "Audit, octomilky, Černobyl i eurovolby. Co čtenáře nejvíc zajímalo v roce 2019?"
-perex: "Zpravodajský server iROZHLAS.cz přináší přehled lidí, témat a článků, které v každém z týdnů uplynulého roku upoutaly pozornost nejvyššího počtu čtenářů."
+perex: "Zpravodajský server iROZHLAS.cz přináší přehled lidí, témat a článků, které v každém z týdnů končícího roku upoutaly pozornost nejvyššího počtu čtenářů."
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/images/02582303.jpeg?itok=ODhVT8A_
 coverimg_note: "Foto Aleš Spurný"
 styles: []
